@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Entertainment Desk",
+      "title": "Taapsee Pannu, Sona Mohapatra shocked at Chattisgarh HC's decision on marital rape case: 'Yahi sunna baaki tha' - Hindustan Times",
+      "description": "Taapsee Pannu and Sona Mohapatra have expressed shock at Chattisgarh high court's decision to acquit a man accused of raping his wife. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/taapsee-pannu-sona-mohapatra-shocked-at-chattisgarh-hc-s-decision-on-marital-rape-case-yahi-sunna-baaki-tha-101629991384046.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/08/26/1600x900/Taapsee-Pannu-1200-4_1629991445624_1629991470071.jpeg",
+      "publishedAt": "2021-08-26T15:37:11Z",
+      "content": "Actor Taapsee Pannu and singer Sona Mohapatra have expressed shock at Chattisgarh High Court's ruling in a marital rape case. The HC discharged a 37-year-old man in a rape case filed against him by h… [+1774 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bollywood Life" },
+      "author": "Nikita Thakkar",
+      "title": "Ranbir Kapoor, Aishwarya Rai Bachchan and other Bollywood actors rejected films because of their co-stars - Bollywood Life",
+      "description": "Here's a list of actors who reportedly refused to work in a project because they were not happy with their co-stars.",
+      "url": "https://www.bollywoodlife.com/photos/ranbir-kapoor-aishwarya-rai-bachchan-and-other-bollywood-actors-rejected-films-because-of-their-co-stars-1902191/",
+      "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2021/08/aish-3-600x315.png",
+      "publishedAt": "2021-08-26T11:13:50Z",
+      "content": "As per reports, Ranveer Singh was offered the film Baar Baar Dekho that had Katrina Kaif as the leading lady. However, rumours had it then that the actor refused the offer as he did not want to get i… [+51 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bollywood Hungama" },
+      "author": "Bollywood Hungama",
+      "title": "Bigg Boss OTT: Raqesh Bapat opens up to Shamita Shetty about life-altering decision of ending marriage with Ridhi Dogra - Bollywood Hungama",
+      "description": "Bigg Boss OTT: Raqesh Bapat opens up to Shamita Shetty about life-altering decision of ending marriage with Ridhi Dogra Bollywood News: Latest Bollywood News, Bollywood News Today, Bollywood Celebrity News, Breaking News, Celeb News, Celebrities News, Bollywo…",
+      "url": "https://www.bollywoodhungama.com/news/features/bigg-boss-ott-raqesh-bapat-opens-shamita-shetty-life-altering-decision-ending-marriage-ridhi-dogra/",
+      "urlToImage": "https://stat1.bollywoodhungama.in/wp-content/uploads/2021/08/Bigg-Boss-OTT-Raqesh-Bapat-opens-up-to-Shamita-Shetty-about-life-altering-decision-of-ending-marriage-with-Ridhi-Dogra-2.jpg",
+      "publishedAt": "2021-08-26T05:27:11Z",
+      "content": "Shamita Shetty and Raqesh Bapat are making headlines with their closeness in the Bigg Boss OTT house. Their connection recently grabbed attention with their morning kiss wake up ritual. However, a mi… [+1696 chars]"
+    }
+  ]
+}
