@@ -8,4 +8,4 @@ To use my check my project:
   
   S2:You have to copy your API key and paste in process.env.REACT_APP_API_Key DailyNewsApp\src\components\News.js in line 32 
   
-  S3:Run in local host by typing command ### npm start in command prompt
+  S3:Run in local host by typing command ### `npm start` start in command prompt
