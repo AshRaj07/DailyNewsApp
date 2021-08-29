@@ -1,9 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 
-export default class NewItem extends Component {
-  render() {
-    let { title, description, imageUrl, newsUrl, author, date,source } = this.props;
-    return (
+const NewsItem = ({ title, description, imageUrl, newsUrl, author, date,source }) => {
+    
+  return (
       <>
         <div className="card">
           <span className="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{zIndex:1,left:"50%"}}>
@@ -30,5 +29,7 @@ export default class NewItem extends Component {
         </div>
       </>
     );
-  }
+  
 }
+
+export default NewsItem
